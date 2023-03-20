@@ -1,1 +1,1 @@
-# blank-canvas
+# Blank Canvas
