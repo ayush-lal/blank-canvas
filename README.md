@@ -3,7 +3,7 @@
   <!-- <a href="https://github.com/ayush-lal/{repo_name}">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
-  <h2 align="center">PROJECT_TITLE</h2>
+  <h3 align="center" style="font-size: x-large">PROJECT_TITLE</h3>
   <p align="center">PROJECT_SYNOPSIS</p>
 </div>
 
@@ -20,7 +20,7 @@
 <a href="https://github.com/ayush-lal/ayush-lal/issues">
 <img src="https://img.shields.io/github/issues/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
-<a href="https://github.com/ayush-lal/ayush-lal/blob/master/LICENSE.txt">
+<a href="https://github.com/ayush-lal/blank-canvas/blob/master/LICENSE.txt">
 <img src="https://img.shields.io/github/license/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
 </div>
