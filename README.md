@@ -8,16 +8,16 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/ayush-lal/ayush-lal/graphs/contributors">
+<a href="https://github.com/ayush-lal/blank-canvas/graphs/contributors">
 <img src="https://img.shields.io/github/contributors/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
-<a href="https://github.com/ayush-lal/ayush-lal/network/members">
+<a href="https://github.com/ayush-lal/blank-canvas/network/members">
 <img src="https://img.shields.io/github/forks/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
-<a href="https://github.com/ayush-lal/ayush-lal/stargazers">
+<a href="https://github.com/ayush-lal/blank-canvas/stargazers">
 <img src="https://img.shields.io/github/stars/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
-<a href="https://github.com/ayush-lal/ayush-lal/issues">
+<a href="https://github.com/ayush-lal/blank-canvas/issues">
 <img src="https://img.shields.io/github/issues/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
 </div>
